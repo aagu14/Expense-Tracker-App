@@ -9,7 +9,6 @@ Core User Stories:
    Tickets can be Approved or Denied.
    
 Technologies used: 
-
 DBeaver 22.1.3, 
 
 Spring Tools Suite 3.9.18, 
